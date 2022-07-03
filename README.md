@@ -1,4 +1,4 @@
-# ionic-m8dhfc
+# IONIC
 
 
 Repositorio destinado ao aprendizado de uma nova linguagem de programação!
